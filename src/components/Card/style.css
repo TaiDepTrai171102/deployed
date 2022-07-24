@@ -1,0 +1,27 @@
+.card-container{
+    max-width: 200px;
+    height: 170px;
+    border: 2px solid #675BF1;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+h5,p{
+    margin: 0;
+}
+.status{
+    font-weight: 600;
+}
+.description{
+    max-height: 64px;
+    overflow: hidden;
+  }
+.all-task{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    position: absolute;
+    left: 240px;
+
+}
