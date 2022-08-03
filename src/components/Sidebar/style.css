@@ -15,7 +15,7 @@ li{
     text-align: center;
     border-bottom: 2px solid white
 }
-.task{
+a{
     height: 40px;
     font-size: 25px;
     line-height: 40px;
